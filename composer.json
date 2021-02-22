@@ -1,0 +1,15 @@
+{
+    "name": "beniamin/transfer-manager-lite-usage",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bwnek/transfer-manager-lite"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0",
+        "bwnek/transfer-manager-lite": "^v0.1-alpha",
+        "nyholm/psr7": "^1.4"
+    }
+}
